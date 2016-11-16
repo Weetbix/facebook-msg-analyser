@@ -1,0 +1,39 @@
+{
+  "name": "facebook-msg-analyser",
+  "version": "0.0.1",
+  "description": "Analyse and process message files from facebook-msg-archive",
+  "main": "bin/run.js",
+  "bin": {
+    "facebook-msg-analyser": "run.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-airbnb-base": "^9.0.0",
+    "eslint-plugin-import": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weetbix/facebook-msg-archive.git"
+  },
+  "keywords": [
+    "facebook",
+    "message",
+    "msg",
+    "archive",
+    "messages",
+    "fb",
+    "stats",
+    "analyse"
+  ],
+  "author": "John Hannagan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Weetbix/facebook-msg-analyser/issues"
+  },
+  "homepage": "https://github.com/Weetbix/facebook-msg-analyser#readme"
+}
