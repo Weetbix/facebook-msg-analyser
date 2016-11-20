@@ -7,10 +7,12 @@
     "facebook-msg-analyser": "run.js"
   },
   "dependencies": {
+    "dateformat": "^1.0.12",
+    "fast-json-parse": "^1.0.2",
     "inquirer": "^1.2.3",
     "lodash": "^4.17.2",
     "office-clippy": "0.0.8",
-    "require-dir": "^0.3.1",
+    "require-dir": "^0.3.1"
   },
   "devDependencies": {
     "eslint": "^3.8.1",
